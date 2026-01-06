@@ -18,7 +18,7 @@ export function SettingsManager() {
   const [phone, setPhone] = useState(shopData?.settings.phone || '');
   const [email, setEmail] = useState(shopData?.settings.email || '');
   const [taxRate, setTaxRate] = useState((shopData?.settings.taxRate || 0).toString());
-  const [currency, setCurrency] = useState(shopData?.settings.currency || 'USD');
+  const [currency, setCurrency] = useState(shopData?.settings.currency || 'INR');
   const [receiptHeader, setReceiptHeader] = useState(shopData?.settings.receiptHeader || '');
   const [receiptFooter, setReceiptFooter] = useState(shopData?.settings.receiptFooter || '');
 
@@ -120,7 +120,7 @@ export function SettingsManager() {
                 id="currency"
                 value={currency}
                 onChange={(e) => setCurrency(e.target.value.toUpperCase())}
-                placeholder="USD"
+                placeholder="INR"
               />
             </div>
           </div>

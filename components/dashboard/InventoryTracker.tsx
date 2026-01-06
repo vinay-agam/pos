@@ -17,6 +17,7 @@ export function InventoryTracker() {
   const { shopData, shopId, refreshShopData } = useShop();
   const [selectedProduct, setSelectedProduct] = useState<string>('');
   const [selectedSize, setSelectedSize] = useState<string>('');
+  const selectedProductData = shopData?.products.find(p => p.id === selectedProduct);
 
   if (!shopData || !shopId) {
     return <div>Loading...</div>;
@@ -117,7 +118,7 @@ export function InventoryTracker() {
                   </SelectContent>
                 </Select>
               </div>
-              {selectedProduct && shopData.products.find(p => p.id === selectedProduct)?.sizes.length > 0 && (
+              {selectedProduct && (selectedProductData?.sizes?.length ?? 0) > 0 && (
                 <div className="space-y-2">
                   <label>Size</label>
                   <Select value={selectedSize} onValueChange={setSelectedSize}>
@@ -125,7 +126,7 @@ export function InventoryTracker() {
                       <SelectValue placeholder="Select size" />
                     </SelectTrigger>
                     <SelectContent>
-                      {shopData.products.find(p => p.id === selectedProduct)?.sizes.map(size => (
+                      {(selectedProductData?.sizes ?? []).map(size => (
                         <SelectItem key={size.id} value={size.id}>
                           {size.name}
                         </SelectItem>

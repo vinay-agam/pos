@@ -9,7 +9,7 @@ interface PriceDisplayProps {
   size?: 'sm' | 'md' | 'lg';
 }
 
-export function PriceDisplay({ price, currency = 'USD', className = '', size = 'md' }: PriceDisplayProps) {
+export function PriceDisplay({ price, currency = 'INR', className = '', size = 'md' }: PriceDisplayProps) {
   const sizeClasses = {
     sm: 'text-sm',
     md: 'text-base',

@@ -156,7 +156,7 @@ export function getDefaultSettings(): ShopData['settings'] {
   return {
     shopName: '',
     taxRate: 0,
-    currency: 'USD',
+    currency: 'INR',
   };
 }
 

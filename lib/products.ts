@@ -7,12 +7,15 @@ import { Product, ProductSize } from '@/types';
  */
 export const DEFAULT_SIZES: Omit<ProductSize, 'id'>[] = [
   { name: '4x6', price: 0 },
-  { name: '5x7', price: 0 },
   { name: '8x10', price: 0 },
-  { name: '11x14', price: 0 },
+  { name: '8x12', price: 0 },
+  { name: '10x12', price: 0 },
+  { name: '12x15', price: 0 },
+  { name: '12x18', price: 0 },
   { name: '16x20', price: 0 },
   { name: '20x24', price: 0 },
   { name: '24x36', price: 0 },
+
 ];
 
 /**
@@ -80,13 +83,15 @@ export function createCustomizedGiftTemplate(name: string, basePrice: number = 0
  */
 export function getDefaultFramePrices(): Record<string, number> {
   return {
-    '4x6': 5.99,
-    '5x7': 7.99,
-    '8x10': 9.99,
-    '11x14': 14.99,
-    '16x20': 19.99,
-    '20x24': 24.99,
-    '24x36': 34.99,
+    '4x6': 150,
+    '8x10': 250,
+    '8x12': 300,
+    '10x12': 350,
+    '12x15': 550,
+    '12x18': 800,
+    '16x20': 1200,
+    '20x24': 1800,
+    '24x36': 2200,
   };
 }
 
@@ -95,13 +100,17 @@ export function getDefaultFramePrices(): Record<string, number> {
  */
 export function getDefaultPrintPrices(): Record<string, number> {
   return {
-    '4x6': 0.29,
-    '5x7': 0.49,
-    '8x10': 0.99,
-    '11x14': 2.99,
-    '16x20': 4.99,
-    '20x24': 7.99,
-    '24x36': 12.99,
+    '4x3r': 60,
+    '4x3': 80,
+    '4x6': 100,
+    '8x10': 120,
+    '8x12': 150,
+    '10x12': 200,
+    '12x15': 250,
+    '12x18': 350,
+    '16x20': 550,
+    '20x24': 690,
+    '24x36': 990,
   };
 }
 
@@ -119,8 +128,8 @@ export function getProductPrice(product: Product, sizeId?: string): number {
 /**
  * Format price for display
  */
-export function formatPrice(price: number, currency: string = 'USD'): string {
-  return new Intl.NumberFormat('en-US', {
+export function formatPrice(price: number, currency: string = 'INR'): string {
+  return new Intl.NumberFormat('en-IN', {
     style: 'currency',
     currency,
   }).format(price);

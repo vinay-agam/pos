@@ -8,21 +8,28 @@ export function useCart() {
   const [items, setItems] = useState<CartItem[]>([]);
 
   const addItem = useCallback((product: Product, sizeId?: string, quantity: number = 1) => {
-    const unitPrice = getProductPrice(product, sizeId);
-    const size = sizeId ? product.sizes.find(s => s.id === sizeId) : undefined;
-
     setItems(prev => {
+      const unitPrice = getProductPrice(product, sizeId);
+      const size = sizeId ? product.sizes.find(s => s.id === sizeId) : undefined;
+  
       const existingIndex = prev.findIndex(
         item => item.productId === product.id && item.sizeId === sizeId
       );
-
+  
       if (existingIndex >= 0) {
         const updated = [...prev];
-        updated[existingIndex].quantity += quantity;
-        updated[existingIndex].totalPrice = updated[existingIndex].quantity * unitPrice;
+        const existingItem = updated[existingIndex];
+        
+        // Use the existing unit price to maintain consistency
+        updated[existingIndex] = {
+          ...existingItem,
+          quantity: existingItem.quantity + quantity,
+          totalPrice: (existingItem.quantity + quantity) * existingItem.unitPrice
+        };
+        
         return updated;
       }
-
+  
       return [
         ...prev,
         {
@@ -36,7 +43,7 @@ export function useCart() {
         },
       ];
     });
-  }, []);
+  }, [getProductPrice]);
 
   const removeItem = useCallback((productId: string, sizeId?: string) => {
     setItems(prev => prev.filter(

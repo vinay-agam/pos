@@ -54,7 +54,7 @@ function POSContent({
 
   const handleAddToCart = (product: Product, sizeId?: string) => {
     cart.addItem(product, sizeId, 1);
-    setActiveTab('cart');
+    // setActiveTab('cart');
   };
 
   const handleCompleteTransaction = (transactionId: string) => {

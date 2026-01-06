@@ -24,21 +24,7 @@ export function ShopProvider({
   const [isLoading, setIsLoading] = useState(true);
 
   const refreshShopData = () => {
-    // #region agent log
-    fetch('http://127.0.0.1:7242/ingest/f7a3bf35-aece-4d59-8352-367359be42cf', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        sessionId: 'debug-session',
-        runId: 'run1',
-        hypothesisId: 'H1',
-        location: 'hooks/useShop.tsx:refreshShopData',
-        message: 'refreshShopData invoked',
-        data: { shopId },
-        timestamp: Date.now(),
-      }),
-    }).catch(() => {});
-    // #endregion
+    
     if (!shopId) {
       setShopData(null);
       setIsLoading(false);
@@ -47,41 +33,13 @@ export function ShopProvider({
 
     setIsLoading(true);
     const data = getShopData(shopId);
-    // #region agent log
-    fetch('http://127.0.0.1:7242/ingest/f7a3bf35-aece-4d59-8352-367359be42cf', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        sessionId: 'debug-session',
-        runId: 'run1',
-        hypothesisId: 'H2',
-        location: 'hooks/useShop.tsx:refreshShopData',
-        message: 'shop data fetched',
-        data: { shopId, hasData: !!data },
-        timestamp: Date.now(),
-      }),
-    }).catch(() => {});
-    // #endregion
+    
     setShopData(data);
     setIsLoading(false);
   };
 
   useEffect(() => {
-    // #region agent log
-    fetch('http://127.0.0.1:7242/ingest/f7a3bf35-aece-4d59-8352-367359be42cf', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        sessionId: 'debug-session',
-        runId: 'run1',
-        hypothesisId: 'H3',
-        location: 'hooks/useShop.tsx:useEffect',
-        message: 'useEffect triggered',
-        data: { shopId },
-        timestamp: Date.now(),
-      }),
-    }).catch(() => {});
-    // #endregion
+    
     refreshShopData();
   }, [shopId]);
 
@@ -94,21 +52,7 @@ export function ShopProvider({
 
 export function useShop() {
   const context = useContext(ShopContext);
-  // #region agent log
-  fetch('http://127.0.0.1:7242/ingest/f7a3bf35-aece-4d59-8352-367359be42cf', {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({
-      sessionId: 'debug-session',
-      runId: 'run1',
-      hypothesisId: 'H4',
-      location: 'hooks/useShop.tsx:useShop',
-      message: 'useShop called',
-      data: { hasContext: context !== undefined },
-      timestamp: Date.now(),
-    }),
-  }).catch(() => {});
-  // #endregion
+  
   if (context === undefined) {
     throw new Error('useShop must be used within a ShopProvider');
   }

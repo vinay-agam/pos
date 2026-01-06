@@ -28,47 +28,10 @@ export function Receipt({ transaction }: ReceiptProps) {
     const singleMatches = !!document.querySelector(selectorSingleEscape);
     const doubleMatches = !!document.querySelector(selectorDoubleEscape);
 
-    // #region agent log
-    fetch('http://127.0.0.1:7242/ingest/f7a3bf35-aece-4d59-8352-367359be42cf', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        sessionId: 'debug-session',
-        runId: 'baseline',
-        hypothesisId: 'H1',
-        location: 'components/pos/Receipt.tsx:effect',
-        message: 'print:hidden selector match status',
-        data: {
-          selectorSingleEscape,
-          selectorDoubleEscape,
-          singleMatches,
-          doubleMatches,
-        },
-        timestamp: Date.now(),
-      }),
-    }).catch(() => {});
-    // #endregion
+  
   }, [transaction]);
 
   const handlePrint = () => {
-    // #region agent log
-    fetch('http://127.0.0.1:7242/ingest/f7a3bf35-aece-4d59-8352-367359be42cf', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        sessionId: 'debug-session',
-        runId: 'baseline',
-        hypothesisId: 'H2',
-        location: 'components/pos/Receipt.tsx:handlePrint',
-        message: 'handlePrint invoked',
-        data: {
-          // avoid literal print:hidden token to prevent Tailwind extraction
-          buttonContainerClasses: 'mt-4 flex justify-center gap-2 print-hidden',
-        },
-        timestamp: Date.now(),
-      }),
-    }).catch(() => {});
-    // #endregion
 
     window.print();
   };

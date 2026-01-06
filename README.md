@@ -2,6 +2,34 @@
 
 A full-featured Point of Sale (POS) system for photo studios, designed to manage photo frames, photo prints, customized gifts, and more. Built with Next.js, TypeScript, Tailwind CSS, and localStorage for data persistence.
 
+## 🚀 Deployment
+
+This application is configured for deployment to GitHub Pages. Follow these steps to deploy:
+
+1. **Enable GitHub Pages**:
+   - Go to your repository's Settings > Pages
+   - Set source to `gh-pages` branch and `/ (root)` folder
+   - Click Save
+
+2. **Set up GitHub Secrets** (Optional, for automated deployment):
+   - Go to repository Settings > Secrets and variables > Actions
+   - Add a new repository secret named `PERSONAL_ACCESS_TOKEN` with a GitHub personal access token that has `repo` and `workflow` permissions
+
+3. **Manual Deployment**:
+   ```bash
+   # Install dependencies
+   npm install
+   
+   # Build the project
+   npm run build
+   
+   # Deploy to GitHub Pages
+   npm run deploy
+   ```
+
+4. **Access Your Site**:
+   Your site will be available at: `https://[your-github-username].github.io/pos`
+
 ## Features
 
 ### Multi-Shop System
@@ -134,7 +162,7 @@ export const SHOP_PASSWORDS: Record<string, string> = {
 ## Project Structure
 
 ```
-pos-new/
+pos/
 ├── app/                    # Next.js app router pages
 │   ├── shop/[shopId]/     # Dynamic shop routes
 │   │   ├── dashboard/     # Dashboard pages

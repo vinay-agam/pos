@@ -25,14 +25,15 @@ interface DashboardLayoutProps {
 
 const navigation = [
   { name: 'Dashboard', href: 'dashboard', icon: LayoutDashboard },
-  { name: 'Products', href: 'products', icon: Package },
+  // Dashboard sub-pages
+  { name: 'Products', href: 'dashboard/products', icon: Package },
   { name: 'POS', href: 'pos', icon: ShoppingBag },
-  { name: 'Sales', href: 'sales', icon: ShoppingBag },
-  { name: 'Customers', href: 'customers', icon: Users },
-  { name: 'Inventory', href: 'inventory', icon: Boxes },
-  { name: 'Reports', href: 'reports', icon: BarChart3 },
-  { name: 'Employees', href: 'employees', icon: UserCog },
-  { name: 'Settings', href: 'settings', icon: Settings },
+  { name: 'Sales', href: 'dashboard/sales', icon: ShoppingBag },
+  { name: 'Customers', href: 'dashboard/customers', icon: Users },
+  { name: 'Inventory', href: 'dashboard/inventory', icon: Boxes },
+  { name: 'Reports', href: 'dashboard/reports', icon: BarChart3 },
+  { name: 'Employees', href: 'dashboard/employees', icon: UserCog },
+  { name: 'Settings', href: 'dashboard/settings', icon: Settings },
 ];
 
 export function DashboardLayout({ children }: DashboardLayoutProps) {

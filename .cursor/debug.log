@@ -1,0 +1,933 @@
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767682536596}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767682536603}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767682536610}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767682536630}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767682536637}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767682536641}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682561551}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682561561}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682561636}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682561637}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767682561657}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767682561658}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767682561659}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767682561671}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767682561671}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767682561673}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682561687}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682561688}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682561697}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682561737}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767682573597}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767682573600}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767682573601}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767682573604}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767682573605}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767682573606}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682576450}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682576445}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682576486}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682576487}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767682576497}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767682576498}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767682576498}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767682576501}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767682576502}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767682576502}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682576504}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682576505}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682576510}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682576512}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682579532}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682579533}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682579561}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682579562}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682579567}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682579572}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682584292}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682584294}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682584318}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682584319}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767682590024}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767682590029}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767682590025}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767682590026}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767682590030}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767682590032}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682591440}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682591444}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682591490}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682591491}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767682591508}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767682591509}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767682591511}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767682591514}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767682591515}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767682591516}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682591525}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682591525}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682591527}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682591530}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767682598653}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767682598657}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767682598656}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767682598658}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767682598646}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767682598649}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682600821}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682600824}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682600858}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682600859}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767682600869}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767682600870}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767682600872}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767682600877}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767682600877}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767682600878}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682600886}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682600887}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682600888}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682600891}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682606944}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682606964}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682607012}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682607014}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767682607037}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767682607038}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767682607038}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767682607042}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767682607043}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767682607046}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682607057}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682607060}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682607063}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682607070}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682611502}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682611520}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682611563}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682611564}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767682611589}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767682611590}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767682611591}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767682611600}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767682611601}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767682611602}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682611616}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682611617}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682611620}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682611624}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682615932}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682615940}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682615977}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682615978}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767682615998}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767682615999}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767682616000}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767682616003}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767682616004}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767682616005}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682616022}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682616022}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682616024}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682616029}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682622306}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682622313}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682622351}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682622352}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767682622377}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767682622378}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767682622379}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767682622382}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767682622383}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767682622384}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682622393}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682622394}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682622395}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682622398}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767682652156}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767682652162}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767682652169}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767682652179}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767682652182}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767682652186}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682656440}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682656454}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682656497}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682656500}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767682656518}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767682656529}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767682656536}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767682656548}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767682656551}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767682656556}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682656561}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682656569}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682656584}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682656659}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682658551}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682658555}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682658593}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682658595}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682658601}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682658612}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682659651}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682659656}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682659697}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682659700}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767682662822}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767682662825}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767682662830}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767682662840}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767682662844}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767682662849}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682725499}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682725486}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682725592}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682725594}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767682725614}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767682725621}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767682725630}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767682725642}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767682725646}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767682725653}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682725681}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682725683}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682725685}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767682725696}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683281467}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683281444}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683281593}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683281592}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767683281610}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683281616}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683281624}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767683281637}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683281640}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683281644}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683281653}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683281654}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683281656}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683281662}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683292695}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683292672}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683292794}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683292792}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767683292813}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683292821}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683292828}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767683292841}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683292843}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683292846}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683292858}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683292859}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683292862}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683292866}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683317398}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683317399}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683317421}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683317423}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683322743}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683322744}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683332275}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683332276}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683346228}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683346228}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683346230}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683346230}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683346230}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683346234}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683356684}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683356690}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683356690}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683356685}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683356695}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683356689}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683370034}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683370032}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683370033}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683370033}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683370039}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683370035}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683377198}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683377201}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683377199}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683377200}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683377207}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683377202}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683393536}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683393537}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683393548}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683393551}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683399258}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683399259}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683475854}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683475879}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683475922}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683475922}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767683475939}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683475940}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683475941}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767683475947}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683475948}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683475949}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683475963}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683475964}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683475967}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683475976}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767683480584}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683480585}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683480586}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767683480589}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683480592}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683480593}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683482485}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683482494}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683482559}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683482560}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767683482585}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683482586}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683482587}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767683482591}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683482593}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683482592}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683482602}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683482603}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683482604}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683482607}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683489493}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683489513}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683489555}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683489555}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767683489579}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683489581}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683489583}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767683489587}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683489588}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683489590}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683489600}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683489601}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683489602}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683489606}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683624307}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683624231}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683624397}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683624395}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767683624419}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683624426}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683624435}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767683624446}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683624448}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683624452}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683624462}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683624463}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683624466}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683624472}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683626990}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683627015}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683627174}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683627175}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767683627200}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683627207}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683627217}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767683627229}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683627233}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683627236}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683627245}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683627246}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683627250}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683627255}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767683632962}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683632968}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683632976}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767683632984}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683632988}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683632991}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683643485}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683643494}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683643548}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683643550}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767683643627}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683643632}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683643638}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767683643646}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683643649}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683643655}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683643662}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683643668}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683643678}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683643686}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683647410}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683647415}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683649112}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683649118}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683650623}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683650628}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683651445}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683651448}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683651466}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683651472}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683651510}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683651522}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683651542}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683651550}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683655314}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683655321}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683655356}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683655362}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683656298}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683656304}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683656865}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683656869}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683656886}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683656891}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683656923}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683656930}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683656950}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683656957}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683658839}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683658848}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683658903}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683658908}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683663726}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683663728}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683664705}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683664706}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683664713}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683664715}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683664730}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683664733}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683664746}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683664749}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683669240}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683669243}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683669279}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683669282}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683676390}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683676392}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683676420}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683676424}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683676443}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683676445}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683686801}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683686803}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683688351}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683688353}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683691101}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683691104}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683695595}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683695598}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683695596}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683695600}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683695601}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683695602}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683695597}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683695605}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683698325}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683698325}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683698327}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683698328}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683698331}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683698330}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683698332}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683698335}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683701036}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683701044}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683701186}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683701193}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683701242}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683701244}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683701435}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683701442}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683705411}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683705412}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683705413}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683705414}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683705416}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683705417}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683705418}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683705421}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683707146}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683707149}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683707853}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683707854}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683707855}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683707856}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683707858}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683707860}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683707859}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683707864}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683708305}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683708306}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683708307}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683708308}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683708310}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683708311}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683708312}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683708315}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683709652}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683709649}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683709694}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683709701}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683712389}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683712392}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683712389}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683712390}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683712395}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683712399}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683712644}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683712645}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683712646}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683712647}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683712650}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683712653}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683712818}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683712819}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683712820}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683712821}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683712824}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683712828}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683712995}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683712996}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683712997}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683712998}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683713000}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683713003}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683713214}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683713214}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683713215}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683713217}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683713219}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683713223}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683714334}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683714339}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683714426}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683714431}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683714457}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683714461}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683714516}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683714518}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683715131}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683715131}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683715132}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683715134}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683715136}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683715139}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683718143}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683718145}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683718168}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683718172}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683718188}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683718192}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683722329}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683722331}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683722336}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683722339}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683722347}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683722349}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683722533}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683722535}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683722540}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683722544}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683722551}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683722554}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683722732}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683722733}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683722739}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683722742}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683722749}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683722752}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683723383}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683723384}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683723389}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683723393}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683723402}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683723405}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683723554}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683723555}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683723561}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683723564}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683723571}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683723573}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683723750}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683723752}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683723757}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683723760}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683723767}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683723770}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683723936}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683723938}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683723942}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683723944}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683723951}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683723954}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683725743}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683725745}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683725764}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683725767}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683727439}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683727441}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683728114}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683728115}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683728123}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683728124}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683728138}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683728141}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683728153}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683728155}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683733221}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683733223}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683733252}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683733254}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683734322}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683734324}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683735001}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683735002}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683735009}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683735010}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683735024}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683735027}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683735038}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683735040}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683737869}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683737871}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683737902}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683737904}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683739095}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683739097}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683739694}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683739695}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683739702}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683739704}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683739718}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683739721}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683739732}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683739735}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683742366}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683742368}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683742391}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683742397}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683743633}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683743635}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683743667}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683743669}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683744515}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683744517}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683745366}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683745367}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683745374}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683745375}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683745389}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683745392}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683745409}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683745412}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683750660}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683750662}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683750693}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683750696}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683758443}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683758445}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683758474}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683758480}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683758498}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683758500}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683760622}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683760623}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683760624}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683760625}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683760627}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683760628}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683760629}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683760632}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683770050}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683770052}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683770078}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683770080}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683772772}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683772774}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683772807}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683772810}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683784992}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767683784990}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683784991}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767683784995}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683784998}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683784999}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683787663}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683787679}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683787722}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683787723}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767683787740}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683787741}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683787743}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767683787746}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683787747}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683787748}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683787758}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683787759}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683787761}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683787777}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683805974}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683805954}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683806031}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683806033}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683806044}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767683806043}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683806045}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767683806046}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683806047}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683806054}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683806065}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683806066}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683806067}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683806070}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683810284}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683810300}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683810351}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767683810363}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683810366}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683810370}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683810350}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767683810375}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683810376}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683810377}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683810384}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683810386}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683810389}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683810395}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683832310}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683832370}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683832290}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683832408}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683832408}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683832409}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683832384}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767683832382}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683832415}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683832373}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683832391}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767683832395}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683832396}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683832397}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683834731}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683834735}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683834773}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683834774}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767683834781}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683834782}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683834783}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767683834785}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683834786}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683834789}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683834790}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683834792}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683834795}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683834798}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683847357}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683847360}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683847397}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683847398}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767683847402}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683847402}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683847404}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767683847407}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683847408}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683847409}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683847421}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683847422}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683847425}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683847439}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683883364}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683883373}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683883365}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683883366}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683883367}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683883367}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683884277}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683884278}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683884278}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683884279}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683884280}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683884285}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683884785}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683884786}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683884787}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683884787}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683884788}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683884794}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683885831}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683885832}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683885833}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683885833}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683885834}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683885840}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683886767}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683886768}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683886769}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683886770}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683886770}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683886776}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683887271}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683887272}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683887273}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683887273}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683887274}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683887280}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683988815}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683988816}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767683988814}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767683988822}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683988823}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683988825}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683990365}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683990332}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683990445}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683990446}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767683990470}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683990471}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683990472}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767683990474}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683990475}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683990476}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683990480}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683990481}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683990481}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683990523}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767683991684}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683991685}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683991686}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767683991687}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683991688}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683991689}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683992919}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683992923}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683992962}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683992963}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767683992970}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683992971}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683992972}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767683992974}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767683992976}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767683992977}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683992978}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683992979}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683992983}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683992986}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683995372}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683995373}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683996133}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683996134}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683996141}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683996143}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683996161}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683996164}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683996173}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767683996175}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684003578}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684003580}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684005676}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684005679}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684183547}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684183552}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684191706}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684191714}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684191729}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684191732}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684191736}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684191739}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684288688}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684288693}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684288738}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684288739}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767684288753}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767684288754}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767684288755}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767684288760}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767684288761}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767684288762}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684288765}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684288767}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684288771}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684288773}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684290695}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684290697}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684291505}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684291506}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684291515}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684291516}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684291534}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684291536}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684291547}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684291550}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"components/pos/Checkout.tsx:handleSubmit","message":"submit start","data":{"items":1,"subtotal":19.99,"total":19.99,"discount":0,"tax":0},"timestamp":1767684293715}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"components/pos/Checkout.tsx:handleSubmit","message":"transaction created","data":{"transactionId":"1767684293718-6p2knzw28"},"timestamp":1767684293719}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767684293719}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767684293720}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"components/pos/Checkout.tsx:handleSubmit","message":"onComplete about to fire","data":{"transactionId":"1767684293718-6p2knzw28"},"timestamp":1767684293720}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"app/shop/[shopId]/pos/page.tsx:handleCompleteTransaction","message":"handleCompleteTransaction invoked","data":{"transactionId":"1767684293718-6p2knzw28","hasShopData":true,"salesCount":12},"timestamp":1767684293721}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H5","location":"app/shop/[shopId]/pos/page.tsx:handleCompleteTransaction","message":"transaction lookup result","data":{"transactionFound":false},"timestamp":1767684293722}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684293723}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684293724}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684293725}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684293726}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684293728}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684293726}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767684305088}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767684305076}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767684305078}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767684305090}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767684305084}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767684305088}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684308291}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684308298}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684308363}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684308364}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767684308383}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767684308384}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767684308385}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767684308389}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767684308390}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767684308392}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684308399}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684308401}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684308400}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684308432}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684316120}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684316114}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684316187}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684316188}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767684316202}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767684316203}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767684316204}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767684316207}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767684316208}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767684316213}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684316218}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684316220}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684316221}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684316232}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684324169}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684324166}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767684324184}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767684324180}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767684324179}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684324201}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684324204}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684324210}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767684324186}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767684324188}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767684324195}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684324217}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684334149}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684334169}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684334206}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684334207}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767684334224}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767684334225}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767684334228}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"hooks/useShop.tsx:useEffect","message":"useEffect triggered","data":{"shopId":"oasis-gift"},"timestamp":1767684334233}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"hooks/useShop.tsx:refreshShopData","message":"refreshShopData invoked","data":{"shopId":"oasis-gift"},"timestamp":1767684334234}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"hooks/useShop.tsx:refreshShopData","message":"shop data fetched","data":{"shopId":"oasis-gift","hasData":true},"timestamp":1767684334235}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684334241}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684334241}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684334243}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H4","location":"hooks/useShop.tsx:useShop","message":"useShop called","data":{"hasContext":true},"timestamp":1767684334256}

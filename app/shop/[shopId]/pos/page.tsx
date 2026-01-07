@@ -57,13 +57,34 @@ function POSContent({
     // setActiveTab('cart');
   };
 
-  const handleCompleteTransaction = (transactionId: string) => {
-    if (!shopData) return;
-    const transaction = shopData.sales.find(s => s.id === transactionId);
-    if (transaction) {
-      setCompletedTransaction(transaction);
-      setActiveTab('receipt');
-    }
+  const handleCompleteTransaction = (
+    transactionId: string,
+    subtotal: number,
+    tax: number,
+    discount: number,
+    discountType: 'percentage' | 'fixed',
+    total: number,
+    paymentMethods: Array<{ type: string; amount: number }>,
+    customerName?: string,
+    employeeName?: string
+  ) => {
+    setCompletedTransaction({
+      id: transactionId,
+      transactionNumber: `TXN-${Date.now()}`,
+      items: cart.items,
+      subtotal,
+      tax,
+      taxRate: shopData?.settings.taxRate || 0,
+      discount,
+      discountType,
+      total,
+      paymentMethods,
+      customerName,
+      employeeName,
+      createdAt: new Date().toISOString(),
+      updatedAt: new Date().toISOString()
+    } as Transaction);
+    setActiveTab('receipt');
   };
 
   const handleNewSale = () => {

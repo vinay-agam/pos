@@ -17,7 +17,17 @@ import { useCart } from '@/hooks/useCart';
 interface CheckoutProps {
   items: CartItem[];
   subtotal: number;
-  onComplete: (transactionId: string) => void;
+  onComplete: (
+    transactionId: string,
+    subtotal: number,
+    tax: number,
+    discount: number,
+    discountType: 'percentage' | 'fixed',
+    total: number,
+    paymentMethods: Array<{ type: string; amount: number }>,
+    customerName?: string,
+    employeeName?: string
+  ) => void;
 }
 
 export function Checkout({ items, subtotal, onComplete }: CheckoutProps) {
@@ -89,7 +99,19 @@ export function Checkout({ items, subtotal, onComplete }: CheckoutProps) {
 
       refreshShopData();
       clearCart();
-      onComplete(transaction.id);
+      onComplete(
+        transaction.id,
+        subtotal,
+        tax,
+        discount,
+        discountType,
+        total,
+        [{
+          type: paymentMethod,
+          amount: total,
+        }],
+        customerName.trim() ? customerName : undefined
+      );
     } catch (error) {
       alert('Failed to process transaction');
       console.error(error);

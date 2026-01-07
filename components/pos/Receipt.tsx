@@ -20,15 +20,8 @@ export function Receipt({ transaction }: ReceiptProps) {
   }
 
   useEffect(() => {
-    if (typeof document === 'undefined') return;
-
-    const colon = String.fromCharCode(58); // avoid literal ":" in source
-    const selectorSingleEscape = '.print\\' + colon + 'hidden';
-    const selectorDoubleEscape = '.print\\\\' + colon + 'hidden';
-    const singleMatches = !!document.querySelector(selectorSingleEscape);
-    const doubleMatches = !!document.querySelector(selectorDoubleEscape);
-
-  
+    // This effect doesn't need to do anything on mount
+    // The print functionality is handled by the browser's print dialog
   }, [transaction]);
 
   const handlePrint = () => {
@@ -37,8 +30,8 @@ export function Receipt({ transaction }: ReceiptProps) {
   };
 
   return (
-    <div className="max-w-md mx-auto">
-      <Card className="print:shadow-none print:border-0">
+    <div className="max-w-md mx-auto print:max-w-none print:mx-0 print:p-0">
+      <Card className="print:shadow-none print:border-0 print:w-full">
         <CardContent className="p-6 space-y-4">
           {/* Header */}
           <div className="text-center border-b pb-4">
@@ -62,7 +55,7 @@ export function Receipt({ transaction }: ReceiptProps) {
           <div className="space-y-2 border-b pb-4">
             <div className="flex justify-between">
               <span className="text-sm text-gray-600">Transaction #:</span>
-              <span className="text-sm font-medium">{transaction.transactionNumber}</span>
+              <span className="text-sm font-bold">{transaction.transactionNumber}</span>
             </div>
             <div className="flex justify-between">
               <span className="text-sm text-gray-600">Date:</span>
